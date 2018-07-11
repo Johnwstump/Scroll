@@ -10,7 +10,7 @@ SYNOPSIS
 
 DESCRIPTION  
 	
-    Scroll is a program which displays text input in both screenful increments and single-row increments with variable-speed automatic scrolling. Input can be provided by specifying a given file or by using Scroll as a filter and piping/redirecting text input. Upon reaching the end of provided text, Scroll informs the user that the end of the file has been reached and ceases scrolling.
+>    Scroll is a program which displays text input in both screenful increments and single-row increments with variable-speed automatic scrolling. Input can be provided by specifying a given file or by using Scroll as a filter and piping/redirecting text input. Upon reaching the end of provided text, Scroll informs the user that the end of the file has been reached and ceases scrolling.
 
 OPTIONS  
 	
